@@ -31,11 +31,12 @@
   },
   "devDependencies": {
     "@types/jsdom": "^21.1.6",
-    "tsx": "^4.7.1"
+    "tsx": "^4.9.3"
   },
   "dependencies": {
-    "@notionhq/client": "^2.2.14",
-    "dayjs": "^1.11.10",
+    "@notionhq/client": "^2.2.15",
+    "consola": "^3.2.3",
+    "dayjs": "^1.11.11",
     "dotenv": "^16.4.5",
     "fast-csv": "^5.0.1",
     "got": "^14.2.1",
